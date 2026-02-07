@@ -68,14 +68,14 @@ ___
 * First  ***Use this*** !
 * Second Use [ Write a Image_name as your Choice.] ***This type of Bracket*** [ ]
 * Third Use  (Paste image Link) ***This type of Bracket*** ( )
-
-![sololeveling](.jpg/shadows-army-solo-leveling.jpg)
+![solo_Leveling](../.jpg/shadows-army-solo-leveling.jpg)
 
 ---
 ### Create a Image Line in ReadME Use Similer Link Createing Steps.
-
-[Solo_Leveling](.jpg/shadows-army-solo-leveling.jpg)
+[Solo_Leveling](../.jpg/shadows-army-solo-leveling.jpg)
 ---
 ### Reade a More Topic Related a ReadMe Click a Link.
 
 [MarkDown_Guide](https://www.markdownguide.org/cheat-sheet/)
+
+
